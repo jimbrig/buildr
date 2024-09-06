@@ -1,0 +1,10 @@
+^buildr\.Rproj$
+^\.Rproj\.user$
+^dev$
+^LICENSE\.md$
+^\.github$
+^\.lintr$
+^codecov\.yml$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
