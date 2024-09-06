@@ -1,4 +1,4 @@
-name: Automate Changelog
+name: Changelog
 on:
   workflow_dispatch:
   push:
