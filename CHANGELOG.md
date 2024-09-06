@@ -6,6 +6,10 @@
 
 ## [Unreleased]
 
+## Bug Fixes
+
+- Fix spelling.R ([93a707f](https://github.com/jimbrig/buildr/commit/93a707f1959f0537850be479f8f973e49c88a899))  - (Jimmy Briggs)
+
 ## Configuration
 
 - Add covrignore ([4224491](https://github.com/jimbrig/buildr/commit/422449126a38e9a2aa24a8120c350050ff1d0ea5))  - (Jimmy Briggs)
