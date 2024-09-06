@@ -8,6 +8,8 @@
 
 ## Configuration
 
+- Add covrignore ([4224491](https://github.com/jimbrig/buildr/commit/422449126a38e9a2aa24a8120c350050ff1d0ea5))  - (Jimmy Briggs)
+- Update spelling ([18ceb8b](https://github.com/jimbrig/buildr/commit/18ceb8baaa205762516e100805074b8b2f323a89))  - (Jimmy Briggs)
 - Re-configure all GHAs ([97ca861](https://github.com/jimbrig/buildr/commit/97ca861de6a1c7ddb0007d94dc1950306bb3df4b))  - (Jimmy Briggs)
 
 ## Features
