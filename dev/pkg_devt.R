@@ -46,6 +46,12 @@ lintr::use_lintr()
 usethis::use_build_ignore(".lintr")
 
 usethis::use_coverage()
+usethis::use_covr_ignore("dev/")
+
+covr::codecov(
+  token = Sys.getenv("CODECOV_TOKEN"),
+  quiet = FALSE
+)
 
 usethis::use_github_links()
 
@@ -97,9 +103,7 @@ usethis::use_pkgdown_github_pages()
 c(
   "utils"
 ) |>
-  purrr::walk(usethis::use_test, open = FALSE)
+  purrr::walk(usethis::use_r, open = FALSE)
 
-
-usethis::use_vignette("entrata", "Entrata API")
 usethis::use_vignette("decisions", "Architecture Decision Records")
 
